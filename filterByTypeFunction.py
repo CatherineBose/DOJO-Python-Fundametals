@@ -14,7 +14,7 @@ eL = []
 spL = ['name','address','phone number','social security number']
 
 # set one of the above variables as the current one I'm testing
-current_tester = sI
+current_tester = L
 print current_tester
 
 curr_type = type(current_tester)
