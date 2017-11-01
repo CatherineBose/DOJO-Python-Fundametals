@@ -44,7 +44,7 @@ newArray = newArray + secondArray
 print "result"
 print newArray 
 
- The starting index and ending index should be separated by the ":"character.
+# The starting index and ending index should be separated by the ":"character.
 x = [99,4,2,5,-3]
 print x[:]
 #the output would be [99,4,2,5,-3]
